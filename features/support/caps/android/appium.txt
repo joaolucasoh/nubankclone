@@ -1,0 +1,9 @@
+[caps]
+platformName = "Android"
+deviceName = "Samsung s8"
+udid = "ce0317139df85ca90c"
+app = "/Users/joaolucas/Documents/automacao/pessoal/nubank-clone/build/nubankclone.apk"
+autoGrantPermissions = "true"
+appActivity = "com.nubankui.MainActivity"
+appPackage = "com.nubankui"
+automationName = "uiautomator2"
